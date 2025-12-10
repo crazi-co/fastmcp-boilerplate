@@ -1,0 +1,7 @@
+httpx
+mcp
+python-dotenv
+Requests
+starlette
+urllib3
+uvicorn
